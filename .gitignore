@@ -1,3 +1,8 @@
+.DS_Store
+
+# Connection Properties file #
+src/main/resources/connection.properties
+
 # Compiled class file
 *.class
 
